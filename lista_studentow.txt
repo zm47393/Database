@@ -1,0 +1,12 @@
+Nazwisko: Kowalski
+Imie: Jan
+Nr albumu: 12345
+Grupa: A
+Rok: 2
+
+Nazwisko: Nowak
+Imie: Anna
+Nr albumu: 67890
+Grupa: B
+Rok: 3
+
